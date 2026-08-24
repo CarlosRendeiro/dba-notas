@@ -22,3 +22,5 @@ Cada arquivo `.sql` tem comentários explicando o objetivo da query e o raciocí
 - [ ] Joins espaciais entre tabelas
 - [ ] Indexação espacial (GiST) e otimização de performance
 - [ ] Mini-projeto: análise de cobertura geográfica
+
+📖 Trilha completa em [trilha-postgresql-postgis.md](./trilha-postgresql-postgis.md)
