@@ -11,3 +11,4 @@
     - [ ] Operadores e Funções de Alta Performance
   - [ ] 3. Matriz de Performance e Boas Práticas
   - [ ] 4. Roteiro de Implementação e Monitoramento
+- [ ] Introdução : DBA PostgreSQL e PostGIS
